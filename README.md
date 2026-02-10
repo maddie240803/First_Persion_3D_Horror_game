@@ -35,3 +35,5 @@ State Switching:
   *Placement Logic: The Spotlight is attached to a Spring Arm with a Target Arm Length of 10 and a Z-axis offset of -30.
   
   *Functional Benefit: This specific placement ensures the light stays steady near the camera (chest level) and doesn't clip through walls during interaction.
+  
+  **FLicker Light and Player Sprint mechanism Add.** 
