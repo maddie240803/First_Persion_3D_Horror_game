@@ -1,3 +1,11 @@
+Controls:
+ E->open the normal Door
+ L-Mouse_Grabable door
+ F-Toggle on and off flashlight
+ L-ctrl crouch
+ L-Shift Sprint
+
+
 Physics-based Door Mechanism Summary
   *Detection: Uses a Line Trace from the Camera's World Location to find the Door Actor within a specific range (350 units).
 
