@@ -1,3 +1,11 @@
+Controls:
+ E->open the normal Door
+ L-Mouse_Grabable door
+ F-Toggle on and off flashlight
+ L-ctrl crouch
+ L-Shift Sprint
+
+
 Physics-based Door Mechanism Summary
   *Detection: Uses a Line Trace from the Camera's World Location to find the Door Actor within a specific range (350 units).
 
@@ -35,3 +43,5 @@ State Switching:
   *Placement Logic: The Spotlight is attached to a Spring Arm with a Target Arm Length of 10 and a Z-axis offset of -30.
   
   *Functional Benefit: This specific placement ensures the light stays steady near the camera (chest level) and doesn't clip through walls during interaction.
+  
+  **FLicker Light and Player Sprint mechanism Add.** 
