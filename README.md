@@ -4,6 +4,7 @@ Controls:
  F-Toggle on and off flashlight
  L-ctrl crouch
  L-Shift Sprint
+ Tab-Inventory System
 
 
 Physics-based Door Mechanism Summary
